@@ -15,7 +15,7 @@ Asegúrate de tener **Python** y **Flet** instalados:
 con el comando para flet:
 pip install flet
 
-##Como usar:
+## Como usar:
 - Sube un archivo .txt
 - Dale click al botón procesar
 - Revisa la conversión en la caja de texto
@@ -26,7 +26,7 @@ pip install flet
 - Historia: que te explica las reglas de la conversión
 - Glificos: que te mostrara los glifos, su nombre y su representación numérica
 
-##Autor:
+## Autor:
 Jessica Ramírez V-23513289.
 Materia: Programación II
 Carrera: Ingeniería Informática, Universidad Nacional Experimental del Táchira
